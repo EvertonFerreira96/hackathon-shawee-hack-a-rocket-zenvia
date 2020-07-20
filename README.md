@@ -13,7 +13,7 @@ O *APOLO - Assistente Pessoal Organizador de Lançamentos Online.* foi desenvolv
 - *Assistente Pessoal*: Auxilio nas atividades do dia a dia 
  
  Zenvia
-- *Engajamento*: A solução aproxima os caminhoneiros das soluções da Zenvia e da Tecnologia 
+- *Engajamento*: A solução aproxima os empreendedores e autonomos das soluções da Zenvia e da Tecnologia 
 
  ### 🔗 Links
 - Video Demonstração Mockup: [Youtube](https://youtu.be/sjxjj_eVDok)
