@@ -9,7 +9,7 @@
 
 ### 🤝 Proposta de Valor
 O *APOLO - Assistente Pessoal Organizador de Lançamentos Online.* foi desenvolvido em resposta ao desafio proposto pela Zenvia de apoiar os profissionais informais e autonomos, levamos em consideração os seguintes pontos:<br /><br />
-
+ Empreendedores
 - *Assistente Pessoal*: Auxilio nas atividades do dia a dia 
  
  Zenvia
