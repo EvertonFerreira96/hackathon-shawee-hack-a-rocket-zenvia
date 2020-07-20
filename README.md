@@ -1,4 +1,4 @@
-# Hack a Rocket | Zenvia > *APOLO - Assistente Pessoal Organizador de Lançamentos Online.  *
+# Hack a Rocket | Zenvia | *APOLO - Assistente Pessoal Organizador de Lançamentos Online.*
 
 *É um assistente dentro do WhatsApp que recebe comandos de voz para auxiliar o microempreendedor individual a realizar lançamentos financeiros e contábeis virtualmente!*
 
@@ -16,8 +16,8 @@ O *APOLO - Assistente Pessoal Organizador de Lançamentos Online.* foi desenvolv
 - *Engajamento*: A solução aproxima os caminhoneiros das soluções da Zenvia e da Tecnologia 
 
  ### 🔗 Links
-- Video Demonstração Mockup: [Youtube] (https://youtu.be/sjxjj_eVDok)
-- Video Demonstração Protótipo: [Youtube] (https://youtu.be/lmN8LtXXp60)
+- Video Demonstração Mockup: [Youtube](https://youtu.be/sjxjj_eVDok)
+- Video Demonstração Protótipo: [Youtube](https://youtu.be/lmN8LtXXp60)
 - Video Pitch: [Youtube](https://youtu.be/EqWGh9J7Tfo)
 - Design: [Figma](https://www.figma.com/file/4MVhF3bzHQ62CT5qQzWVTk/Untitled?node-id=2%3A0)
  
