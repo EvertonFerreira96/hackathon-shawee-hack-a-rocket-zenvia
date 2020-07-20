@@ -20,6 +20,8 @@ O *APOLO - Assistente Pessoal Organizador de Lançamentos Online.* foi desenvolv
 - Video Demonstração Protótipo: [Youtube](https://youtu.be/lmN8LtXXp60)
 - Video Pitch: [Youtube](https://youtu.be/EqWGh9J7Tfo)
 - Design: [Figma](https://www.figma.com/file/4MVhF3bzHQ62CT5qQzWVTk/Untitled?node-id=2%3A0)
+- Apresentação: [Google Docs](https://docs.google.com/presentation/d/1huPMbxmLB8D9-mvypT3cU2_LNeM2TlhARop1xKcPSkg/edit?usp=sharing)
+ 
  
 
  ## 💪 Time
